@@ -1,9 +1,13 @@
 {
-  "extends": ["eslint:recommended", "prettier", "prettier/react"],
+  "extends": [
+    "eslint:recommended",
+    "prettier",
+    "prettier/react"
+  ],
   "plugins": [],
   "parserOptions": {
     "ecmaVersion": 2018,
-    "sourcetype": "module",
+    "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true
     }
