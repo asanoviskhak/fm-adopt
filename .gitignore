@@ -7,3 +7,7 @@ npm-debug.log
 dist/
 coverage/
 .vscode
+.firebase
+.public
+.firebaserc
+firebase.json
